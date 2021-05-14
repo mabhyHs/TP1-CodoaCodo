@@ -1,5 +1,5 @@
 #  Proyecto Promix - Sandwiches veganos 🥪
-primer proyecto del programa Codo a Codo 4.0 donde se pone en práctica todo lo aprendido hasta el momento del primer módulo.
+Primer proyecto del programa Codo a Codo 4.0 donde se pone en práctica todo lo aprendido hasta el momento del primer módulo.
 
 ## Tecnologias utilizadas:
 * HTML
